@@ -42,7 +42,6 @@
 		79AB939FF716F341369E7A4A1E66D728 /* Pods-pokedexTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-pokedexTests.debug.xcconfig"; sourceTree = "<group>"; };
 		7A4EBA2ABE54B8E239A5095615C3D571 /* Pods-pokedex-pokedexUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-pokedex-pokedexUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		9C286DE1868C59CECEF0CC8AEF8FF191 /* Pods-pokedexTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-pokedexTests.release.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A351BAB2BA390A1F530E39581DAFFAEF /* Pods-pokedex-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-pokedex-Info.plist"; sourceTree = "<group>"; };
 		B8D4B1251B40843FB123DE4010B49768 /* Pods-pokedexTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-pokedexTests-umbrella.h"; sourceTree = "<group>"; };
 		BAF017549901D25D1F1B708638B048FB /* Pods-pokedex.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-pokedex.release.xcconfig"; sourceTree = "<group>"; };
@@ -167,7 +166,6 @@
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
-				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				38C1E407A1CBD3B868947285AB36FF33 /* Products */,
 				4888EB1085FC96858341C974E9C43DCA /* Targets Support Files */,
